@@ -4,7 +4,7 @@
 
 ## 📖 Description
 
-**Medicose** is a comprehensive Hospital Management System built on the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed to streamline healthcare operations, it features secure authentication, appointment management, digital patient records.
+**Medicose** is a comprehensive Hospital Management System built on the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed to streamline healthcare operations, it features secure authentication, appointment management, digital patient records, and doctor-patient communication.
 
 ---
 
@@ -73,8 +73,8 @@
         JWT_SECRET="your_jwt_key"
 
         # Admin Credentials
-        ADMIN_EMAIL = 'abhijeet031005@gmail.com'
-        ADMIN_PASSWORD = 'Abhijeet@031005'
+        ADMIN_EMAIL = 'your_mail'
+        ADMIN_PASSWORD = 'your_pass'
 
         # Cloudinary Configuration
         CLOUDINARY_NAME="your_cloud_name"
@@ -82,7 +82,7 @@
         CLOUDINARY_SECRET_KEY="your_secret_key"
 
         # Stripe Configuration
-        STRIPE_SECRET_KEY=sk_test_your_stripe_key
+        STRIPE_SECRET_KEY='your_stripe_key'
         CURRENCY="$"
 
         # Server Configuration
