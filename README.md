@@ -4,7 +4,7 @@
 
 ## 📖 Description
 
-**Medicose** is a comprehensive Hospital Management System built on the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed to streamline healthcare operations, it features secure authentication, appointment management, digital patient records, and doctor-patient communication.
+**Medicose** is a comprehensive Hospital Management System built on the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed to streamline healthcare operations, it features secure authentication, appointment management, digital patient records.
 
 ---
 
